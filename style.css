@@ -1,0 +1,166 @@
+*{
+    padding: 0;
+    margin: 0;
+     font-family: "Acme", sans-serif;
+     font-weight: 400;
+     font-style: normal;
+}
+.container{
+    margin: 0px;
+    padding: 30px;
+    background-image:url(img/B3.jpeg) ;
+    background-size:cover;
+    font-size: medium;
+   }
+.section-1{
+    background-image: url(IMG/S7.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+   
+    color: white;
+
+}
+.section-1__Name{
+    font-size:100px;
+}
+.section-1__Contact{
+    font-size: larger;
+}
+.section-1__Contact:hover{
+    color:black;
+    background-color:rgb(17, 49, 188);
+    size: 2px;
+}
+.section-2,.section-3,.section-4,.section-5,.entities{
+    margin-top:20px;
+    
+}
+.section-2__about,.section-3__area,.section-4__protitle1,.section-4__protitle2,.section-5__title,.section-5__links{
+    margin-top:10px ;}
+.section-5
+   {
+    background-color:black;
+    color:white;
+    padding: right 2000000px; ;
+}
+.section-5__links1,.section-5__links2{
+    color:blueviolet
+}
+.section-3__area,.section-4__protitle,.section-5__links{
+    list-style: none;
+}
+.section-3{
+    background-color: rgb(67, 67, 215);
+    display:inline-block;
+    padding: 12px;
+    border-radius:  5px;
+    height:200px;
+    vertical-align: top;
+}
+.section-4{
+    background-color: rgb(71, 199, 201);
+    display:inline-block;
+    padding: 12px;
+    border-radius:  5px;
+    height:200px;
+    vertical-align: top;
+}
+.section-4__protitle1,.section-4__protitle2{
+    list-style: none;
+}
+.section-2__me,.section-3__intrest,.section-4__protitle,.section-4__protitle11,.section-4__protitle21{
+    text-decoration:underline;
+    text-decoration-style:solid;
+}
+.section-5__title{
+     text-decoration:underline white;
+}
+.section-2__about span::before{
+    content:"•";
+    color:black
+}
+.section-2{
+    background-color:rgb(228, 228, 144);
+    padding: 3px;
+    border-radius:5px;;
+}
+.section-1__Role{
+    font-weight: bolder;
+    font-size:50px ;
+}
+.main1{
+      margin: 0px;
+    padding: 30px;
+    background-image:url(img/H1.jpeg) ;
+    background-size:contain;
+    font-size: medium;
+    color: white;
+}
+.main11__name{
+    margin-top: 20px ;
+    font-size:100px;
+   
+}
+.main11__role{
+     margin-top: 20px ;
+    font-size:50px;
+    
+}
+.main11__home{
+      margin-top: 20px ;
+    font-size: 25px;
+}
+.main11__home:hover{
+    background-color:rgb(23, 15, 134);
+    height:80px;
+    widht: 80px;
+}
+.main2__name{
+    margin-top: 30px ;
+    font-size:20px;
+    border:none;
+}
+.main2__email{
+     margin-top: 30px ;
+    font-size:20px;
+     border:none;
+}
+.main2__msg{
+     margin-top: 30px ;
+    font-size:20px;
+}
+.main2__submit{
+     margin-top: 30px ;
+    font-size:20px ;
+}
+.main2__name1{
+    margin-top: 30px ;
+    font-size:20px;
+}
+.main2__email1{
+     margin-top: 30px ;
+    font-size:20px;
+}
+.main2__msg1{
+     margin-top: 30px ;
+    font-size:20px;
+}
+.mani2__submit1{
+     margin-top: 30px ;
+    font-size:20px ;
+}
+
+.main3__SM1,.main3__SM2,.main11__home
+{
+color:rgb(219, 186, 54);
+}
+.main3__SM11,.main3__SM1,.main3__SM2{
+    font-size:20px;
+}
+.main3__SM3{
+      font-size:20px;
+      margin:0;
+      padding:0;
+      margin-left:0 ;
+}
+    
